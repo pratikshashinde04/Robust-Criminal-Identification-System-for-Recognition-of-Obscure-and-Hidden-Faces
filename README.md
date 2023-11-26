@@ -1,6 +1,7 @@
 # Robust-Criminal-Identification-System-for-Recognition-of-Obscure-and-Hidden-Faces
 This is a project designed to enhance the capabilities of facial recognition systems, particularly in scenarios where faces are obscured or hidden. The goal is to develop a system that can identify individuals even when their faces are not fully visible, which can be crucial in law enforcement and security applications.
-<br/>
+<br/><br/>
+
 The System has Ability to 
 <br/>
 
